@@ -1,6 +1,6 @@
 # Mannequin-Run
 Mannequin Run is an Android Endless Runner game built in Unreal Engine 4.22.3 using Blueprints.
-https://play.google.com/store/apps/details?id=com.LINORGames.EndlessRunner
+Download: https://play.google.com/store/apps/details?id=com.LINORGames.EndlessRunner
 
 # Description of Game
 In an Alternate Earth, you- the Mannequin, who lived their life as a cos-player in many different clothes shops is brought to life with a mysterious artifact. Enjoying life, you wander around the streets only to realise that the Shop owners want their mannequin(You) back and send the cops after you. You decide to run as fast as you can to avoid being captured by the cops.
